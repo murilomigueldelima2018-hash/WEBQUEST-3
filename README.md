@@ -13,8 +13,8 @@ javac *.java
 java AgendaApplication
 
 ## Integrantes
-  Alunos: José Isaac Gouveia Alves
-               Vinícius Marques Batistas
-               Murilo Miguel de Lima
+  Alunos: José Isaac Gouveia Alves,
+               Vinícius Marques Batistas,
+               Murilo Miguel de Lima,
                Rich Alisson Teixeira
                deSouza
